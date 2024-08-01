@@ -1,3 +1,3 @@
 # Notes-and-Password-Manager 
 
-## Live : https://note-vault-io.netlify.app
+## Live : https://66abb18595b5970480e46e93--courageous-tulumba-52da17.netlify.app/
